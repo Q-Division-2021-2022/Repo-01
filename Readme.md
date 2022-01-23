@@ -3,24 +3,24 @@
   different designs and patterns seeing rangoli on the floor.
 
 ## Flowcharts
-  Function Tree
+  #### Function Tree
   ----------------------------------------------------------------------------------
   ![Funtcion Tree](/resources/images/flowcharts/function-tree.png)
-  Function Clustering
+  #### Function Clustering
   ----------------------------------------------------------------------------------
   ![Funtcion Clustering](/resources/images/flowcharts/function-clustering.png)
 
 ## Designs
-  Rajesh Katagar
+  #### Rajesh Katagar
   ----------------------------------------------------------------------------------
   ![Design 2 Rajesh Katagar](/resources/images/design/design-2.jpeg)
-  Poonam Shettar
+  #### Poonam Shettar
   ----------------------------------------------------------------------------------
   ![Design 1 Poonam Shettar](/resources/images/design/design-1.jpg)
-  Sonal Sheth
+  #### Sonal Sheth
   ----------------------------------------------------------------------------------
   ![Design 3 Sonal Sheth](/resources/images/design/design-3.jpeg)
-  Trishul D B
+  #### Trishul D B
   ----------------------------------------------------------------------------------
   ![Design 4 Trishul D B](/resources/images/design/design-4.jpeg)
     
