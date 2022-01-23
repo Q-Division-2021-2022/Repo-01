@@ -3,10 +3,10 @@
   different designs and patterns seeing rangoli on the floor.
 
 ## Flowcharts
-  ![](/resources/images/flowcharts/function-tree.png)
+  ![Funtcion Tree](/resources/images/flowcharts/function-tree.png)
+  ![Funtcion Clustering](/resources/images/flowcharts/function-clustering.png)
+
 ## Designs
-    Design 1 - Poonam Shettar
-    Design 2 - Rajesh Katagar
-    Design 3 - Sonal Sheth
-    Design 4 - Trishul D B
+  ![Design 1 Poonam Shettar](/resources/images/design/design-1.png)
+    
   
