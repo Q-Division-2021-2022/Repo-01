@@ -4,8 +4,7 @@
 
 ## Designs
     Design 1 - Poonam Shettar
-    https://github.com/Q-Division-2021-2022/Repo-01/blob/master/resources/images/design/design-1.jpg
-
+   ![alt text](http://resources/images/design-1.jpg) 
     Design 2 - Rajesh Katagar
      <p>
       <img src="/resources/images/design/design-2.jpg" width="350" title="Design 2">
