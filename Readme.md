@@ -22,6 +22,6 @@
   ![Design 3 Sonal Sheth](/resources/images/design/design-3.jpeg)
   #### Trishul D B
   ----------------------------------------------------------------------------------
-  ![Design 4 Trishul D B](/resources/images/design/design-4.jpeg)
+  ![Design 4 Trishul D B](/resources/images/design/design-4.jpg)
     
   
